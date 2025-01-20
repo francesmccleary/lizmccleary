@@ -1,4 +1,4 @@
-Hi, I’m @lizmccleary (they/them). Reach me @ elizabethmccleary11@gmail.com 
+Hi, I’m @lizmccleary. Reach me @ elizabethmccleary11@gmail.com 
 
 <!---
 lizmccleary/lizmccleary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
